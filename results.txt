@@ -1,0 +1,148 @@
+10286
+4344
+4622
+7320
+6138 time: 66.77504634857178
+7958 time: 76.85
+3998 time: 38.51
+4566 time: 48.03
+3822 time: 38.78
+3392 time: 30.99
+5852 time: 55.09
+4700 time: 44.6
+7798 time: 77.93
+4040 time: 38.34
+8382 time: 75.81
+2728 time: 35.3s
+2156 time: 28.62s
+7958 time: 77.01s
+6738 time: 65.39s
+4362 time: 43.28s
+8190 time: 75.15s
+15494 time: 142.4s
+8282 time: 80.95s
+4122 time: 40.7s
+6766 time: 69.45s
+11148 time: 103.52s
+5196 time: 54.46s
+4848 time: 48.11s
+score: 7544 highest tile 4096 time: 70.92s
+score: 6852 highest tile 4096 time: 64.98s
+score: 7896 highest tile 4096 time: 80.33s
+score: 6650 highest tile 4096 time: 64.79s
+score: 3952 highest tile 2048 time: 39.0s
+score: 4130 highest tile 2048 time: 41.81s
+score: 4304 highest tile 2048 time: 44.94s
+score: 10330 highest tile 8192 time: 105.45s
+score: 2116 highest tile 1024 time: 27.04s
+score: 3546 highest tile 2048 time: 40.18s
+score: 9168 highest tile 4096 time: 80.54s
+score: 8072 highest tile 4096 time: 66.88s
+score: 6744 highest tile 4096 time: 56.67s
+score: 3930 highest tile 2048 time: 34.06s
+score: 7094 highest tile 4096 time: 61.49s
+score: 7130 highest tile 4096 time: 64.85s
+score: 7198 highest tile 4096 time: 74.12s
+score: 7012 highest tile 4096 time: 65.91s
+score: 8216 highest tile 4096 time: 79.13s
+score: 4268 highest tile 2048 time: 37.08s
+score: 6578 highest tile 4096 time: 66.22s
+score: 15264 highest tile 8192 time: 160.77s
+score: 4304 highest tile 2048 time: 44.68s
+score: 3320 highest tile 2048 time: 32.08s
+score: 11948 highest tile 8192 time: 106.18s
+score: 8044 highest tile 4096 time: 70.39s
+score: 3598 highest tile 2048 time: 32.28s
+score: 4020 highest tile 2048 time: 36.75s
+score: 4024 highest tile 2048 time: 36.08s
+score: 6744 highest tile 4096 time: 60.42s
+score: 10822 highest tile 8192 time: 98.29s
+score: 7000 highest tile 4096 time: 65.94s
+score: 664 highest tile 256 time: 6.24s
+score: 3236 highest tile 2048 time: 30.51s
+score: 4066 highest tile 2048 time: 39.25s
+score: 4212 highest tile 2048 time: 39.42s
+score: 8272 highest tile 4096 time: 74.09s
+score: 8248 highest tile 4096 time: 78.07s
+score: 7920 highest tile 4096 time: 71.97s
+score: 7624 highest tile 4096 time: 67.4s
+score: 6716 highest tile 4096 time: 61.91s
+score: 7654 highest tile 4096 time: 70.62s
+score: 4252 highest tile 2048 time: 39.08s
+score: 5908 highest tile 4096 time: 54.78s
+score: 14324 highest tile 8192 time: 129.47s
+score: 968 highest tile 512 time: 9.06s
+score: 4678 highest tile 4096 time: 43.77s
+score: 6650 highest tile 4096 time: 63.95s
+score: 6754 highest tile 4096 time: 61.96s
+score: 4132 highest tile 2048 time: 40.44s
+score: 7768 highest tile 4096 time: 83.81s
+score: 6172 highest tile 4096 time: 63.28s
+score: 6750 highest tile 4096 time: 66.97s
+score: 5030 highest tile 4096 time: 50.63s
+score: 9468 highest tile 8192 time: 86.96s
+score: 8256 highest tile 4096 time: 79.77s
+score: 4164 highest tile 2048 time: 40.15s
+score: 1114 highest tile 512 time: 12.27s
+score: 6374 highest tile 4096 time: 58.91s
+score: 7390 highest tile 4096 time: 64.19s
+score: 7866 highest tile 4096 time: 69.69s
+score: 7878 highest tile 4096 time: 69.87s
+score: 7334 highest tile 4096 time: 67.74s
+score: 4266 highest tile 2048 time: 46.64s
+score: 2438 highest tile 1024 time: 22.41s
+score: 4130 highest tile 2048 time: 37.68s
+score: 4112 highest tile 2048 time: 42.94s
+score: 5242 highest tile 4096 time: 55.82s
+score: 4098 highest tile 2048 time: 42.67s
+score: 6192 highest tile 4096 time: 964.25s
+score: 7950 highest tile 4096 time: 677.74s
+score: 4164 highest tile 2048 time: 38.25s
+score: 8266 highest tile 4096 time: 71.91s
+score: 6730 highest tile 4096 time: 64.02s
+score: 12140 highest tile 8192 time: 107.54s
+score: 7600 highest tile 4096 time: 66.77s
+score: 6192 highest tile 4096 time: 57.35s
+score: 3904 highest tile 2048 time: 36.44s
+score: 8222 highest tile 4096 time: 77.94s
+score: 4104 highest tile 2048 time: 42.26s
+score: 7724 highest tile 4096 time: 74.63s
+score: 11352 highest tile 8192 time: 104.25s
+score: 5466 highest tile 4096 time: 51.92s
+score: 4198 highest tile 2048 time: 36.78s
+score: 6000 highest tile 4096 time: 51.93s
+score: 6766 highest tile 4096 time: 56.51s
+score: 12118 highest tile 8192 time: 101.91s
+score: 6304 highest tile 4096 time: 53.93s
+score: 6632 highest tile 4096 time: 55.69s
+score: 4234 highest tile 2048 time: 36.95s
+score: 8338 highest tile 4096 time: 68.81s
+score: 2364 highest tile 1024 time: 21.29s
+score: 9038 highest tile 4096 time: 79.12s
+score: 5984 highest tile 4096 time: 59.0s
+score: 4658 highest tile 2048 time: 43.26s
+score: 4150 highest tile 2048 time: 39.89s
+score: 7944 highest tile 4096 time: 67.95s
+score: 4680 highest tile 2048 time: 42.21s
+score: 4210 highest tile 2048 time: 37.01s
+score: 6604 highest tile 4096 time: 60.1s
+score: 12136 highest tile 8192 time: 104.95s
+score: 6996 highest tile 4096 time: 62.25s
+score: 7052 highest tile 4096 time: 61.2s
+score: 7754 highest tile 4096 time: 76.16s
+score: 13934 highest tile 8192 time: 130.13s
+score: 12422 highest tile 8192 time: 107.37s
+score: 2170 highest tile 1024 time: 22.66s
+score: 3720 highest tile 2048 time: 37.9s
+score: 4474 highest tile 2048 time: 51.21s
+score: 7992 highest tile 4096 time: 89.28s
+score: 6784 highest tile 4096 time: 74.56s
+score: 2418 highest tile 1024 time: 28.1s
+score: 8458 highest tile 4096 time: 92.21s
+score: 5432 highest tile 4096 time: 66.1s
+score: 8016 highest tile 4096 time: 85.42s
+score: 7850 highest tile 4096 time: 78.82s
+score: 15858 highest tile 8192 time: 147.84s
+score: 8314 highest tile 4096 time: 76.83s
+score: 7704 highest tile 4096 time: 69.02s
+score: 4736 highest tile 2048 time: 41.22s
